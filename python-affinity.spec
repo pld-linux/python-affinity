@@ -6,7 +6,7 @@
 Summary:	Control processor affinity on linux
 Name:		python-%{module}
 Version:	0.1.0
-Release:	1
+Release:	2
 License:	Python Software Foundation License
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/a/affinity/%{module}-%{version}.tar.gz
